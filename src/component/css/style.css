@@ -1,0 +1,131 @@
+*{
+    background-color: black;
+    box-sizing: border-box;
+}
+
+/*********************************/
+
+h2, h3, h4, p , ul li {
+    color: white;
+}
+/**/
+ul li{
+    list-style: none;
+    font-size: 1.4rem;
+}
+
+h1{
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+  
+    text-shadow: 0.05em 0 0 rgba(172, 211, 66, 0.75),
+      -0.025em -0.05em 0 rgba(90, 226, 90, 0.75),
+      0.025em 0.05em 0 rgba(150, 17, 226, 0.75);
+
+      animation: glitch 500ms infinite;
+}
+
+@keyframes glitch {
+    0% {
+      text-shadow: 0.05em 0 0 rgba(255, 0, 0, 0.75),
+        -0.05em -0.025em 0 rgba(0, 255, 0, 0.75),
+        -0.025em 0.05em 0 rgba(0, 0, 255, 0.75);
+    }
+    
+    15% {
+      text-shadow: -0.05em -0.025em 0 rgba(255, 0, 0, 0.75),
+        0.025em 0.025em 0 rgba(0, 255, 0, 0.75),
+        -0.05em -0.05em 0 rgba(0, 0, 255, 0.75);
+    }
+    
+    50% {
+      text-shadow: 0.025em 0.05em 0 rgba(255, 0, 0, 0.75),
+        0.05em 0 0 rgba(0, 255, 0, 0.75), 
+        0 -0.05em 0 rgba(0, 0, 255, 0.75);
+    }
+    
+    100% {
+      text-shadow: -0.025em 0 0 rgba(255, 0, 0, 0.75),
+        -0.025em -0.025em 0 rgba(0, 255, 0, 0.75),
+        -0.025em -0.05em 0 rgba(0, 0, 255, 0.75);
+    }
+  }
+
+
+/*********************************/
+
+.header-title-desktop h1 p{
+    display: contents;
+    color: brown;
+}
+.header-img-desktop img{
+    width: 100%;
+}
+.container-header-desktop{
+    padding-top: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+/*      EFECTO ANIMACION SELLO      */
+.container-sello-desktop img{
+    /*margin-top: 1.5rem;*/
+    width: 40%;
+    animation: go-back 4s infinite;
+}
+
+@keyframes go-back {
+    0%{
+        transform: rotate(5deg);
+    }
+    50%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(5deg);
+    }
+  }
+
+
+/*                                  */
+.link-redes-desktop ul li{
+    margin: 0rem 2rem 0rem 2rem;
+}
+
+.link-redes-desktop ul li a{
+    width: 40%;
+}
+
+
+.section-container-desktop-date{
+    padding: 2rem 0 2rem 0;
+}
+
+.logo-icon-cands-desktop img{
+    width: 100%;
+}
+
+.conocimiento-container-desktop ul{
+    padding: 0;
+}
+
+
+.icon-copied:hover{
+    color: green;
+}
+
+.footer-container-desktop p{
+    color: red;
+    font-weight: bold;
+}
+
+.footer-container-desktop{
+    color: white;
+}
+
+footer{
+    margin-top: 5rem;
+}
