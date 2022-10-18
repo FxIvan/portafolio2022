@@ -25,7 +25,7 @@ export const Experiencia = () =>{
                         </div>
                         <div>
                             <div>
-                                <p>Dentro de CANDS me encuentro en el área de Monitoreo, mi principal tarea es monitorear la sincronizacion de datos hacia la base de datos y mantener estable los servidores para evitar errores. Ademas de desarrollar herramientas que puedan mejorar el sistema de monitoreo </p>
+                                <p>Dentro de CANDS me encuentro en el área de Monitoreo, mi principal tarea es monitorear la sincronizacion de datos hacia la base de datos y mantener estable los servidores para evitar errores </p>
                             </div>
                         </div>
                         <div>

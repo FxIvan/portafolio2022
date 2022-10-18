@@ -63,7 +63,7 @@ export const Conocimientos = () =>{
                     </div>
                 </div>
 
-                <div className='mt-5'>
+                <div>
                 <div className='row'>
                     <div className='col-sm-3'>
                         <div>
@@ -111,7 +111,7 @@ export const Conocimientos = () =>{
                     </div>    
                 </div>
                 <div>
-                <div className='row mt-5'>
+                <div className='row'>
                     <div className='col-sm-3'>
                         <div>
                             <h4>Control de Versiones</h4>

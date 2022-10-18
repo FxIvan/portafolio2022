@@ -34,8 +34,6 @@ export const Conocimientos = () =>{
                                 <li>NodeJS</li>
                                 <li>Express</li>
                                 <li>JavaScripts</li>
-                                <li>PROGRESS 4GL</li>
-                                <li>BASH</li>
                             </ul>
                         </div>
                     </div>
@@ -63,80 +61,56 @@ export const Conocimientos = () =>{
                     </div>
                 </div>
 
-                <div className='mt-5'>
+                <div>
                 <div className='row'>
                     <div className='col-sm-3'>
                         <div>
-                            <h4>IaaS</h4>
+                            <h4>FRONTEND</h4>
                         </div>
                         <div>
                             <ul>
-                                <li>Google Cloud Platform</li>
-                                <li>Digital Ocean</li>
-                                <li>AWS (Aprendiendo)</li>
+                                <li>ReactJS</li>
+                                <li>CSS</li>
+                                <li>HTML</li>
+                                <li>BOOTSTRAP</li>
+                                <li>SASS</li>
                             </ul>
                         </div>
                     </div>
                     <div className='col-sm-3'>
                         <div>
-                            <h4>SaaS</h4>
+                            <h4>BACKEND</h4>
                         </div>
                         <div>
                             <ul>
-                                <li>Heroku</li>
+                                <li>NodeJS</li>
+                                <li>Express</li>
+                                <li>JavaScripts</li>
                             </ul>
                         </div>
                     </div>
                     <div className='col-sm-3'>
                         <div>
-                            <h4>Distritos</h4>
+                            <h4>Base De Datos</h4>
                         </div>
                         <div>
                             <ul>
-                                <li>CentOS</li>
-                                <li>Ubuntu</li>
+                                <li>MongoDB</li>
+                                <li>MySQL</li>
                             </ul>
                         </div>
                     </div>
                     <div className='col-sm-3'>
                         <div>
-                            <h4>TEST</h4>
+                            <h4>DATA FORM</h4>
                         </div>
                         <div>
                             <ul>
-                                <li>POSTMAN</li>
+                                <li>JSON</li>
                             </ul>
                         </div>
                     </div>
                     </div>    
-                </div>
-                <div>
-                <div className='row mt-5'>
-                    <div className='col-sm-3'>
-                        <div>
-                            <h4>Control de Versiones</h4>
-                        </div>
-                        <div>
-                            <ul>
-                                <li>GitHub</li>
-                                <li>Git</li>
-                                <li>GitLab</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div className='col-sm-3'>
-                        <div>
-                            <h4>Otros</h4>
-                        </div>
-                        <div>
-                            <ul>
-                                <li>Jira</li>
-                                <li>Slack</li>
-                                <li>CodeStream</li>
-                            </ul>
-                        </div>
-                    </div>
-                   </div>   
                 </div>
             </div>
         </div>

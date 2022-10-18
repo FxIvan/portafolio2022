@@ -25,7 +25,7 @@ export const Experiencia = () =>{
                         </div>
                         <div>
                             <div>
-                                <p>Dentro de CANDS me encuentro en el área de Monitoreo, mi principal tarea es monitorear la sincronizacion de datos hacia la base de datos y mantener estable los servidores para evitar errores. Ademas de desarrollar herramientas que puedan mejorar el sistema de monitoreo </p>
+                                <p>Dentro de CANDS me encuentro en el área de Monitoreo, mi principal tarea es monitorear los log de las plantas e implementar una solución ante un un problema que pueda surgir en el servidor, dentro de esta área utilizo herramientas como Google Cloud Platform, máquinas Virtuales con distribución CentOS de Linux, comandos bash y Slack, por el momento se está haciendo un cambio de stack con la cual hay que hacer herramientas para optimizar y minimizar los errores, para estas herramientas utilizo por mi parte las herramientas MERN por ejemplo para hacer un buscador </p>
                             </div>
                         </div>
                         <div>

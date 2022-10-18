@@ -63,7 +63,7 @@ export const Conocimientos = () =>{
                     </div>
                 </div>
 
-                <div className='mt-5'>
+                <div>
                 <div className='row'>
                     <div className='col-sm-3'>
                         <div>
@@ -111,7 +111,7 @@ export const Conocimientos = () =>{
                     </div>    
                 </div>
                 <div>
-                <div className='row mt-5'>
+                <div className='row'>
                     <div className='col-sm-3'>
                         <div>
                             <h4>Control de Versiones</h4>
@@ -130,13 +130,32 @@ export const Conocimientos = () =>{
                         </div>
                         <div>
                             <ul>
-                                <li>Jira</li>
-                                <li>Slack</li>
-                                <li>CodeStream</li>
+                                <li>Heroku</li>
                             </ul>
                         </div>
                     </div>
-                   </div>   
+                    <div className='col-sm-3'>
+                        <div>
+                            <h4>Distritos</h4>
+                        </div>
+                        <div>
+                            <ul>
+                                <li>CentOS</li>
+                                <li>Ubuntu</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div className='col-sm-3'>
+                        <div>
+                            <h4>TEST</h4>
+                        </div>
+                        <div>
+                            <ul>
+                                <li>POSTMAN</li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>    
                 </div>
             </div>
         </div>

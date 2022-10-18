@@ -1,7 +1,7 @@
 import React from "react";
 import {BsLinkedin, BsGithub, BsWhatsapp} from 'react-icons/bs'
 import {AiOutlineCopy} from 'react-icons/ai'
-import sello from '../img/chanchito.png'
+import sello from '../img/SELLO-ACTITUD.svg'
 import {CopyToClipboard} from 'react-copy-to-clipboard';
 
 export const Datos = () => {
@@ -15,7 +15,7 @@ export const Datos = () => {
                         <li>Telefono: +54 1136887781 <CopyToClipboard text="1136887781"><button className="button-copiar"><AiOutlineCopy color="white" className="icon-copied"/></button></CopyToClipboard></li>
                         <li>Ubicacion: Argentina</li>
                         <li>Puesto: JR</li>
-                        <li>Desarrollador: MERN / Sysadmin</li>
+                        <li>Desarrollador: MERN</li>
                         <li>Correo: almendraivan210814@gmail.com <CopyToClipboard text="almendraivan210814@gmail.com"><button className="button-copiar"><AiOutlineCopy color="white" className="icon-copied"/></button></CopyToClipboard></li>
                         <li>Ingles: Lectura</li>
                     </ul>

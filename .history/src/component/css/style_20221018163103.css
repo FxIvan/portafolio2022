@@ -73,7 +73,7 @@ h1{
 /*      EFECTO ANIMACION SELLO      */
 .container-sello-desktop img{
     /*margin-top: 1.5rem;*/
-    width: 20%;
+    width: 40%;
     animation: go-back 4s infinite;
 }
 

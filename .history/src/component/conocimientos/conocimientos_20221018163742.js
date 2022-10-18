@@ -63,7 +63,7 @@ export const Conocimientos = () =>{
                     </div>
                 </div>
 
-                <div className='mt-5'>
+                <div>
                 <div className='row'>
                     <div className='col-sm-3'>
                         <div>
@@ -109,34 +109,6 @@ export const Conocimientos = () =>{
                         </div>
                     </div>
                     </div>    
-                </div>
-                <div>
-                <div className='row mt-5'>
-                    <div className='col-sm-3'>
-                        <div>
-                            <h4>Control de Versiones</h4>
-                        </div>
-                        <div>
-                            <ul>
-                                <li>GitHub</li>
-                                <li>Git</li>
-                                <li>GitLab</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div className='col-sm-3'>
-                        <div>
-                            <h4>Otros</h4>
-                        </div>
-                        <div>
-                            <ul>
-                                <li>Jira</li>
-                                <li>Slack</li>
-                                <li>CodeStream</li>
-                            </ul>
-                        </div>
-                    </div>
-                   </div>   
                 </div>
             </div>
         </div>
